@@ -2,6 +2,10 @@
   Color samples
 </h1>
 
+<p align="center">
+  This website is built with HTML, CSS, JavaScript and hosted at Github Pages
+</p>
+
 ## Installation
 
 1. Clone this repository
